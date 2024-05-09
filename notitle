@@ -1,0 +1,134 @@
+// const data = [{
+//     title: "Module 1",
+//     link: "https://www.coursera.org/learn/introtoux-principles-and-processes/exam/3UqZN/module-1/attempt",
+//     questionList: [{
+//         id: 0,
+//         question: "Which of the following is NOT a reason why building products with great UX is hard?",
+//         answer: ["There is no known process that we can follow to create good UX"]
+//     }, {
+//         id: 1,
+//         question: "True or false: You need to have a degree in psychology in order to understand the principles behind good UX.",
+//         answer: ["False"]
+//     }, {
+//         id: 2,
+//         question: "True or false: “User Experience” only describes the experience that people have while actually using a product, and not other related experiences like acquiring the product or fixing it when it breaks.",
+//         answer: ["False"]
+//     }, {
+//         id: 3,
+//         question: "True or false: One of your goals in designing products with a good user experience should be to fail as early and often as possible.",
+//         answer: ["True"]
+//     }, {
+//         id: 4,
+//         question: "Which of the following is not a phase in the iterative design process?",
+//         answer: ["Stylize"]
+//     }, {
+//         id: 5,
+//         question: "A model of the design process that shows both the iterative nature and also how it progresses towards an end goal is: ",
+//         answer: ["The spiral model"]
+//     }, {
+//         id: 6,
+//         question: "Interviews, Observations, Surveys, User Testing, and Inspection Methods are all examples of:",
+//         answer: ["UX Research methods"]
+//     }, {
+//         id: 7,
+//         question: "Which of the following components of UX were discussed in this week’s lectures? Check all that apply.",
+//         answer: ["Value", "Usability", "Desirability", "Adoptability"]
+//     }, {
+//         id: 8,
+//         question: "Which of the following questions would be most relevant to the UX criterion of “Adoptability”?",
+//         answer: ["Where do users currently look for products or services like the one we will offer?"]
+//     }, {
+//         id: 9,
+//         question: "True or false: In this course, you will “get your hands dirty” and gain hands-on experience with UX Research and Design methods.",
+//         answer: ["True"]
+//     }]
+// }, {
+//     title: "Module 1",
+//     link: "https://www.coursera.org/learn/introtoux-principles-and-processes/exam/X4OZv/ux-design-overview-part-1/attempt",
+//     questionList: [{
+//         id: 0,
+//         question: "True or false: In UX, “Design” is concerned only with the aesthetic (or beauty-related) aspects of products.",
+//         answer: ["False"]
+//     }, {
+//         id: 1,
+//         question: "Which of the following is not part of a typical UX design process?",
+//         answer: ["Establishing the sale price for a product"]
+//     }, {
+//         id: 2,
+//         question: `_____________ means "to make an idea real or concrete."`,
+//         answer: ["Reification"]
+//     }, {
+//         id: 3,
+//         question: "According to Bill Moggridge, “A representation of a design, made before the final solution exists” is called a:",
+//         answer: ["Prototype"]
+//     }, {
+//         id: 4,
+//         question: "Which of the following is not an advantage of lo-fi prototyping?",
+//         answer: ["You can work out aspects of graphic design such as fonts and color schemes, which have the largest impact on user experience."]
+//     }, {
+//         id: 5,
+//         question: "Bill Buxton claims that __________ is not just a byproduct of design, but is central to design thinking and learning.",
+//         answer: ["Sketching"]
+//     }, {
+//         id: 6,
+//         question: "True or false: it is important to be good at drawing to use sketching in UX Design.",
+//         answer: ["False"]
+//     }, {
+//         id: 7,
+//         question: "True or false: in the “generation” phase, your goal should be to sketch many different design ideas rather than to perfect a single idea.",
+//         answer: ["True"]
+//     }, {
+//         id: 8,
+//         question: "True or false: when sketching to come up with different design solutions, you should stop the first time you run out of ideas.",
+//         answer: ["False"]
+//     }, {
+//         id: 9,
+//         question: "Brainstorming, morphological analysis, and “the worst idea” are examples of what kind of technique?",
+//         answer: ["Ideation"]
+//     }]
+// }, {
+//     title: "Module 3",
+//     link: "https://www.coursera.org/learn/introtoux-principles-and-processes/exam/pK37I/module-3/attempt",
+//     questionList: [{
+//         id: 0,
+//         question: `The “central vision” portion of the human field of view, in which people can read text and recognize details in images, is approximately how wide?`,
+//         answer: ["5°"]
+//     }, {
+//         id: 1,
+//         question: "The pattern of eye fixations that people perform when processing a web page has been shown to resemble what shape?",
+//         answer: [`The letter ‘F’`]
+//     }, {
+//         id: 2,
+//         question: "The effect that makes it easy to recognize objects in a visual field that differ from their background and all other objects in simple visual features like color and texture is called:",
+//         answer: ["pop-out"]
+//     }, {
+//         id: 3,
+//         question: "Which of the following is not considered a primitive visual feature that is processed in the first, and fastest, stage of visual processing?",
+//         answer: ["proximity"]
+//     }, {
+//         id: 4,
+//         question: "According to the original research on short-term memory, how many “items” can a person retain in short-term memory at one time?",
+//         answer: ["About 7"]
+//     }, {
+//         id: 5,
+//         question: "A collection of associated concepts in long-term memory is called what?",
+//         answer: ["A thought"]
+//     }, {
+//         id: 6,
+//         question: "Which of the following does not impact the likelihood that something in long-term memory will be recalled?",
+//         answer: ["accuracy of information"]
+//     }, {
+//         id: 7,
+//         question: "About how long does an item remain in short-term memory if it is not actively maintained through rehearsal?",
+//         answer: ["A few seconds"]
+//     }, {
+//         id: 8,
+//         question: "The recommendation “keep lists of options short” is given because:",
+//         answer: [`due to the limits of short-term memory, users will have forgotten the first items by the time they’ve gotten to the end of a long list.`]
+//     }, {
+//         id: 9,
+//         question: "In the context of this lesson, the use of consistency, standards, and metaphor is recommended because: ",
+//         answer: [`they allow a design to take advantage of users’ existing schema.`]
+//     },
+// ]},
+// ]
